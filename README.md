@@ -56,7 +56,7 @@ This analysis helps identify potentially profitable investments by leveraging pu
 ---
 
 ## 📌 How to Run
-1. Download the notebook file: `Startup_Investment_project_FINAL.ipynb`
+1. Download the notebook file: `Startup_Investment_Project.ipynb`
 2. Install dependencies:
    ```bash
    pip install pandas matplotlib seaborn
